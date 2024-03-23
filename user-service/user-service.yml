@@ -10,3 +10,7 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
+twilio:
+    account_sid: ACcf138f5cb985c5d60e3f62a1929a1b5c
+    auth_token: 4ea600c07d03c60533717d38c8b3966d
+    trial_number: +18565132672
